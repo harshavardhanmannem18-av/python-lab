@@ -17,7 +17,7 @@ print("Quotient =", a / b)
 
 # 3. Output Formatting
 
-name = "Vamsi"
+name = "harsha"
 marks = 95
 
 # Comma-separated print()
@@ -41,7 +41,7 @@ print("Sum =", sum(numbers))
 #output
 #Enter your name: Vamsi
 #Enter your age: 18
-#Hello Vamsi, you will turn 19 next year.#
+#Hello harsha, you will turn 19 next year.#
 
 #Enter first number: 20
 #Enter second number: 10
