@@ -39,7 +39,7 @@ print("Sum =", sum(numbers))
 # 2. ZeroDivisionError: If second number is 0 while finding quotient.
 # 3. No error for valid.
 #output
-#Enter your name: Vamsi
+#Enter your name: harsha
 #Enter your age: 18
 #Hello harsha, you will turn 19 next year.#
 
